@@ -1,0 +1,1 @@
+# TGS-Etika-Profesi-A
