@@ -84,5 +84,18 @@ Pengadilan dengan tegas menyatakan bahwa tanggung jawab tetap ada pada perusahaa
 
 ---
 
+## 2.4 Disclaimer vs Akuntabilitas
+Air Canada diketahui memiliki disclaimer yang menyebutkan bahwa data dari sistem otomatis mungkin tidak selalu tepat. Namun, dalam pelaksanaannya, adanya disclaimer tersebut tidak memadai untuk menghilangkan tanggung jawab hukum.
+Hal ini dikarenakan posisi chatbot sebagai bagian dari platform resmi perusahaan. Dari sudut pandang pengguna, tidak ada perbedaan antara informasi yang diberikan oleh chatbot dan informasi dari sumber resmi lain. Dengan begitu, chatbot dianggap sebagai perwujudan langsung dari perusahaan.
+Pengadilan berpendapat bahwa pengguna memiliki dasar yang sah untuk mempercayai informasi itu. Oleh karena itu, meskipun ada disclaimer, perusahaan masih dianggap lalai dalam menjamin keakuratan informasi yang disampaikan. Dengan kata lain, disclaimer tidak bisa digunakan sebagai cara untuk menghindari tanggung jawab hukum.
+
+---
+
+## 2.5 Analisis dengan Triple Bottom Line
+Pendekatan Triple Bottom Line digunakan untuk melihat dampak kasus ini dari tiga aspek utama, yaitu People, Profit, dan Planet.
+Dari aspek People, kasus ini menimbulkan kerugian finansial bagi pelanggan serta menurunkan tingkat kepercayaan terhadap layanan perusahaan. Pengalaman negatif ini juga dapat mempengaruhi persepsi publik terhadap penggunaan AI dalam layanan pelanggan.
+Dari aspek Profit, perusahaan menghadapi kerugian dalam bentuk biaya kompensasi serta potensi kerusakan reputasi. Reputasi yang menurun dapat berdampak pada kepercayaan konsumen dan pada akhirnya mempengaruhi kinerja bisnis secara keseluruhan.
+Sementara itu, dari aspek Planet, dampaknya tidak terlalu signifikan dalam konteks kasus ini. Namun, jika dikaitkan secara lebih luas, penggunaan teknologi AI yang tidak efisien atau tidak terkelola dengan baik dapat berkontribusi pada pemborosan sumber daya digital dan energi.
+
 
 *Program Studi Teknik Informatika — Universitas Pancasila — 2026*
