@@ -53,5 +53,36 @@ Kasus Air Canada merupakan bukti nyata bahwa kegagalan sistem AI bisa mengakibat
 3. Mengevaluasi siapa yang bertanggung jawab atas kesalahan tersebut.
 
 ---
+# BAB 2 — PEMBAHASAN
+
+## 2.1 Kronologi Kasus
+
+Kasus yang melibatkan Air Canada dimulai saat seorang penumpang, Jake Moffatt, meminta informasi mengenai bereavement fare, yaitu tarif khusus untuk penumpang yang bepergian karena alasan kedukaan. Untuk mendapatkan informasi dengan cepat, ia memanfaatkan layanan chatbot yang disediakan di situs resmi maskapai itu.
+
+Chatbot selanjutnya menjelaskan bahwa penumpang bisa membeli tiket terlebih dahulu dan mengajukan refund setelah perjalanan selesai. Informasi ini disampaikan dengan tegas tanpa menunjukkan bahwa hal itu bertentangan dengan kebijakan resmi perusahaan.
+
+Dengan informasi tersebut, penumpang memilih untuk membeli tiket dengan tarif penuh. Namun, setelah perjalanan selesai dan klaim diajukan, Air Canada menolak permohonan itu dengan alasan bahwa kebijakan resmi tidak memperbolehkan pengajuan pengembalian dana setelah perjalanan dilakukan.
+
+Ketidakcocokan ini kemudian mengakibatkan konflik hukum. Kasus tersebut diajukan ke pengadilan, dan putusannya menyatakan bahwa Air Canada tetap bertanggung jawab atas informasi yang disampaikan melalui chatbot, meskipun kesalahan itu berasal dari sistem berbasis AI.
+
+---
+## 2.2 Analisis Penyebab
+Kasus ini mengilustrasikan beberapa faktor penyebab utama yang saling berhubungan. Salah satu penyebab utama adalah keterbatasan teknologi AI yang disebut hallucination, yaitu situasi di mana sistem memproduksi informasi yang terlihat akurat tetapi sejatinya tidak sesuai dengan fakta atau kebijakan yang ada.
+
+Di samping itu, ada kekurangan mekanisme untuk memvalidasi informasi yang dihasilkan oleh chatbot. Sistem tidak memiliki pengawasan yang memadai untuk menjamin bahwa jawaban yang diberikan sesuai dengan data resmi perusahaan.
+Sistem desain juga merupakan aspek yang krusial. Chatbot diintegrasikan sebagai komponen layanan resmi tanpa batasan yang jelas, sehingga pengguna percaya bahwa semua informasi yang disediakan adalah benar. Hal ini semakin buruk karena adanya ketergantungan total pada AI tanpa pengawasan manusia, yang seharusnya berperan sebagai lapisan kontrol tambahan.
+
+---
+
+## 2.2 Analisis Tanggung Jawab
+Dalam situasi ini, ada beberapa pihak yang bisa diteliti terkait tanggung jawab mereka. Yang pertama adalah pihak perusahaan, yaitu Air Canada, sebagai pemilik serta pengelola sistem. Perusahaan memegang kendali sepenuhnya atas pelaksanaan chatbot dan bertanggung jawab atas data yang diberikan kepada konsumen.
+
+Kedua adalah pengembang teknologi kecerdasan buatan (developer), yang berfungsi dalam merancang sistem. Akan tetapi, dalam aspek hukum, tanggung jawab utama tidak dikenakan kepada developer karena mereka tidak berhubungan langsung dengan pengguna akhir dalam konteks layanan.
+
+Ketiga adalah pengguna, yaitu penumpang yang dalam hal ini menjadi pihak yang merasa dirugikan. Pengguna mengambil tindakan berdasarkan informasi yang didapat dari sumber resmi, sehingga secara hukum dianggap memiliki kepercayaan yang wajar.
+Pengadilan dengan tegas menyatakan bahwa tanggung jawab tetap ada pada perusahaan. Hal ini didasarkan pada kenyataan bahwa chatbot merupakan wujud dari layanan resmi perusahaan, sehingga semua informasi yang disampaikan dianggap sebagai pernyataan perusahaan tersebut.
+
+---
+
 
 *Program Studi Teknik Informatika — Universitas Pancasila — 2026*
