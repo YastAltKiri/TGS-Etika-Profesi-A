@@ -74,7 +74,7 @@ Sistem desain juga merupakan aspek yang krusial. Chatbot diintegrasikan sebagai 
 
 ---
 
-## 2.2 Analisis Tanggung Jawab
+## 2.3 Analisis Tanggung Jawab
 Dalam situasi ini, ada beberapa pihak yang bisa diteliti terkait tanggung jawab mereka. Yang pertama adalah pihak perusahaan, yaitu Air Canada, sebagai pemilik serta pengelola sistem. Perusahaan memegang kendali sepenuhnya atas pelaksanaan chatbot dan bertanggung jawab atas data yang diberikan kepada konsumen.
 
 Kedua adalah pengembang teknologi kecerdasan buatan (developer), yang berfungsi dalam merancang sistem. Akan tetapi, dalam aspek hukum, tanggung jawab utama tidak dikenakan kepada developer karena mereka tidak berhubungan langsung dengan pengguna akhir dalam konteks layanan.
@@ -83,6 +83,16 @@ Ketiga adalah pengguna, yaitu penumpang yang dalam hal ini menjadi pihak yang me
 Pengadilan dengan tegas menyatakan bahwa tanggung jawab tetap ada pada perusahaan. Hal ini didasarkan pada kenyataan bahwa chatbot merupakan wujud dari layanan resmi perusahaan, sehingga semua informasi yang disampaikan dianggap sebagai pernyataan perusahaan tersebut.
 
 ---
+# BAB 3 - PENUTUP
+
+## 3.1 Kesimpulan
+Berdasarkan analisis kasus yang terkait dengan Air Canada, dapat disimpulkan bahwa pemanfaatan chatbot yang didukung kecerdasan buatan dalam layanan pelanggan mengandung risiko yang cukup besar. Salah satu hasil utama dalam kasus ini adalah fenomena hallucination, di mana sistem AI menciptakan informasi yang terlihat meyakinkan, tetapi tidak sesuai dengan kebijakan atau fakta yang sebenarnya.
+
+Kasus ini juga menekankan bahwa tanggung jawab terhadap informasi yang dihasilkan oleh sistem AI tetap ada pada perusahaan sebagai pemilik dan pengelola sistem. Walaupun kesalahan disebabkan oleh teknologi, hukum menyatakan bahwa AI tidak memiliki kemampuan sebagai subjek yang dapat dimintai tanggung jawab, sehingga tanggung jawab itu tidak bisa dipindahkan.
+
+Di samping itu, adanya disclaimer atau pernyataan bahwa sistem AI mungkin melakukan kesalahan terbukti tidak efektif dalam mencegah tanggung jawab hukum. Hal ini disebabkan karena chatbot dianggap sebagai wakil resmi perusahaan, sehingga pengguna memiliki alasan yang sah untuk mempercayai informasi yang disampaikan.
+
+Dengan demikian, bisa disimpulkan bahwa penerapan AI dalam layanan publik perlu dilengkapi dengan mekanisme kontrol, validasi, dan pengawasan yang cukup. Tanpa sistem pengendalian yang tepat, pemakaian AI malah bisa menyebabkan kerugian bagi konsumen dan perusahaan.
 
 
 *Program Studi Teknik Informatika — Universitas Pancasila — 2026*
