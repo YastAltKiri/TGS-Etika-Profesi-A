@@ -109,5 +109,10 @@ Di samping itu, adanya disclaimer atau pernyataan bahwa sistem AI mungkin melaku
 
 Dengan demikian, bisa disimpulkan bahwa penerapan AI dalam layanan publik perlu dilengkapi dengan mekanisme kontrol, validasi, dan pengawasan yang cukup. Tanpa sistem pengendalian yang tepat, pemakaian AI malah bisa menyebabkan kerugian bagi konsumen dan perusahaan.
 
+## DAFTAR PUSTAKA
+
+M. S. Amalia, "Peran Teknologi AI dalam Pengembangan Chatbot Layanan Pelanggan," *Jurnal Sistem Teknologi dan Informatika STMIK PLK*, vol. 10, no. 2, pp. 100–110, 2024.
+
+J. Smith et al., "Chatbots in Airlines: Are They Really Assisting?," *Journal of Airline Services and Marketing*, Wiley, 2026.
 
 *Program Studi Teknik Informatika — Universitas Pancasila — 2026*
