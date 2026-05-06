@@ -1,20 +1,22 @@
 # ETIKA PROFESI – A
 
-## "Kasus *Air Canada* sebagai Contoh Nyata Kegagalan AI dalam Konteks Hukum"
+## "Kasus _Air Canada_ sebagai Contoh Nyata Kegagalan AI dalam Konteks Hukum"
 
 > **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom.
 
 ---
 
+## [![Tutorial Cara Coding](https://img.youtube.com/vi/10CituHNTV4/maxresdefault.jpg)](https://youtu.be/10CituHNTV4)
+
 ### 👥 Kelompok 5
 
-| No. | Nama | NIM |
-|-----|------|-----|
-| 1 | Riast Dwi Sanditya | 4524210088 |
-| 2 | Nadia Chelsea Alifia Ashab | 4524210072 |
-| 3 | Najwa Khoerunnisa Suherman | 4524210076 |
-| 4 | Sarah Syafitri Hilmi | 4524210096 |
-| 5 | Rizka Ainun Nazori | 4524210092 |
+| No. | Nama                       | NIM        |
+| --- | -------------------------- | ---------- |
+| 1   | Riast Dwi Sanditya         | 4524210088 |
+| 2   | Nadia Chelsea Alifia Ashab | 4524210072 |
+| 3   | Najwa Khoerunnisa Suherman | 4524210076 |
+| 4   | Sarah Syafitri Hilmi       | 4524210096 |
+| 5   | Rizka Ainun Nazori         | 4524210092 |
 
 ---
 
@@ -32,7 +34,7 @@ Kemajuan teknologi kecerdasan buatan (AI) telah memodernisasi layanan pelanggan,
 
 Salah satu risiko utama dari chatbot generatif adalah **halusinasi AI**, yaitu keadaan di mana model menciptakan informasi yang terlihat meyakinkan tetapi sebenarnya salah atau tidak didukung oleh data. Dalam pelayanan pelanggan, halusinasi AI dapat membuat penumpang menerima informasi yang salah tentang kebijakan tarif, pengembalian dana, atau persyaratan perjalanan, yang langsung mempengaruhi keuangan serta kepercayaan pelanggan. Beberapa penelitian teknis menunjukkan bahwa tingkat halusinasi pada chatbot layanan pelanggan masih berada di kisaran puluhan persen, sehingga sistem AI mandiri tanpa pengendalian dianggap tidak memadai untuk interaksi rumit dengan pelanggan.
 
-Di tengah penerapan teknologi ini, terdapat tuntutan signifikan terhadap **etika dan tanggung jawab** dalam menciptakan sistem AI. Prinsip‑prinsip seperti akuntabilitas, keadilan, privasi, transparansi, dan *non‑maleficence* telah diakui sebagai dasar etika AI yang sering tersurat dalam berbagai pedoman internasional, termasuk dalam konteks layanan digital dan sistem informasi. Dalam sektor penerbangan, penerapan etika AI memerlukan pengawasan manusia, audit algoritma secara berkala, serta mekanisme pemantauan setelah implementasi untuk memastikan bahwa sistem AI tidak hanya efisien, tetapi juga adil dan aman bagi pengguna.
+Di tengah penerapan teknologi ini, terdapat tuntutan signifikan terhadap **etika dan tanggung jawab** dalam menciptakan sistem AI. Prinsip‑prinsip seperti akuntabilitas, keadilan, privasi, transparansi, dan _non‑maleficence_ telah diakui sebagai dasar etika AI yang sering tersurat dalam berbagai pedoman internasional, termasuk dalam konteks layanan digital dan sistem informasi. Dalam sektor penerbangan, penerapan etika AI memerlukan pengawasan manusia, audit algoritma secara berkala, serta mekanisme pemantauan setelah implementasi untuk memastikan bahwa sistem AI tidak hanya efisien, tetapi juga adil dan aman bagi pengguna.
 
 Kasus Air Canada merupakan bukti nyata bahwa kegagalan sistem AI bisa mengakibatkan dampak hukum dan reputasi. Dalam sebuah proses perselisihan di **Civil Resolution Tribunal British Columbia**, Air Canada dianggap bertanggung jawab atas informasi keliru yang disampaikan oleh chatbot di situs resmi maskapai, termasuk janji pengembalian biaya duka yang tidak sesuai dengan kebijakan resmi mereka. Keputusan tersebut menekankan bahwa perusahaan tidak bisa mengabaikan tanggung jawabnya dengan menganggap chatbot sebagai entitas yang berbeda, tetapi harus bertanggung jawab atas informasi yang disampaikan oleh sistem AI kepada konsumen. Kasus ini menciptakan preseden signifikan bahwa penerapan AI dalam pelayanan pelanggan perlu didukung oleh kerangka tata kelola yang kokoh, termasuk sistem verifikasi informasi dan pengendalian akibat hukum.
 
@@ -53,6 +55,7 @@ Kasus Air Canada merupakan bukti nyata bahwa kegagalan sistem AI bisa mengakibat
 3. Mengevaluasi siapa yang bertanggung jawab atas kesalahan tersebut.
 
 ---
+
 # BAB 2 — PEMBAHASAN
 
 ## 2.1 Kronologi Kasus
@@ -66,7 +69,9 @@ Dengan informasi tersebut, penumpang memilih untuk membeli tiket dengan tarif pe
 Ketidakcocokan ini kemudian mengakibatkan konflik hukum. Kasus tersebut diajukan ke pengadilan, dan putusannya menyatakan bahwa Air Canada tetap bertanggung jawab atas informasi yang disampaikan melalui chatbot, meskipun kesalahan itu berasal dari sistem berbasis AI.
 
 ---
+
 ## 2.2 Analisis Penyebab
+
 Kasus ini mengilustrasikan beberapa faktor penyebab utama yang saling berhubungan. Salah satu penyebab utama adalah keterbatasan teknologi AI yang disebut hallucination, yaitu situasi di mana sistem memproduksi informasi yang terlihat akurat tetapi sejatinya tidak sesuai dengan fakta atau kebijakan yang ada.
 
 Di samping itu, ada kekurangan mekanisme untuk memvalidasi informasi yang dihasilkan oleh chatbot. Sistem tidak memiliki pengawasan yang memadai untuk menjamin bahwa jawaban yang diberikan sesuai dengan data resmi perusahaan.
@@ -75,6 +80,7 @@ Sistem desain juga merupakan aspek yang krusial. Chatbot diintegrasikan sebagai 
 ---
 
 ## 2.3 Analisis Tanggung Jawab
+
 Dalam situasi ini, ada beberapa pihak yang bisa diteliti terkait tanggung jawab mereka. Yang pertama adalah pihak perusahaan, yaitu Air Canada, sebagai pemilik serta pengelola sistem. Perusahaan memegang kendali sepenuhnya atas pelaksanaan chatbot dan bertanggung jawab atas data yang diberikan kepada konsumen.
 
 Kedua adalah pengembang teknologi kecerdasan buatan (developer), yang berfungsi dalam merancang sistem. Akan tetapi, dalam aspek hukum, tanggung jawab utama tidak dikenakan kepada developer karena mereka tidak berhubungan langsung dengan pengguna akhir dalam konteks layanan.
@@ -85,6 +91,7 @@ Pengadilan dengan tegas menyatakan bahwa tanggung jawab tetap ada pada perusahaa
 ---
 
 ## 2.4 Disclaimer vs Akuntabilitas
+
 Air Canada diketahui memiliki disclaimer yang menyebutkan bahwa data dari sistem otomatis mungkin tidak selalu tepat. Namun, dalam pelaksanaannya, adanya disclaimer tersebut tidak memadai untuk menghilangkan tanggung jawab hukum.
 Hal ini dikarenakan posisi chatbot sebagai bagian dari platform resmi perusahaan. Dari sudut pandang pengguna, tidak ada perbedaan antara informasi yang diberikan oleh chatbot dan informasi dari sumber resmi lain. Dengan begitu, chatbot dianggap sebagai perwujudan langsung dari perusahaan.
 Pengadilan berpendapat bahwa pengguna memiliki dasar yang sah untuk mempercayai informasi itu. Oleh karena itu, meskipun ada disclaimer, perusahaan masih dianggap lalai dalam menjamin keakuratan informasi yang disampaikan. Dengan kata lain, disclaimer tidak bisa digunakan sebagai cara untuk menghindari tanggung jawab hukum.
@@ -92,15 +99,18 @@ Pengadilan berpendapat bahwa pengguna memiliki dasar yang sah untuk mempercayai 
 ---
 
 ## 2.5 Analisis dengan Triple Bottom Line
+
 Pendekatan Triple Bottom Line digunakan untuk melihat dampak kasus ini dari tiga aspek utama, yaitu People, Profit, dan Planet.
 Dari aspek People, kasus ini menimbulkan kerugian finansial bagi pelanggan serta menurunkan tingkat kepercayaan terhadap layanan perusahaan. Pengalaman negatif ini juga dapat mempengaruhi persepsi publik terhadap penggunaan AI dalam layanan pelanggan.
 Dari aspek Profit, perusahaan menghadapi kerugian dalam bentuk biaya kompensasi serta potensi kerusakan reputasi. Reputasi yang menurun dapat berdampak pada kepercayaan konsumen dan pada akhirnya mempengaruhi kinerja bisnis secara keseluruhan.
 Sementara itu, dari aspek Planet, dampaknya tidak terlalu signifikan dalam konteks kasus ini. Namun, jika dikaitkan secara lebih luas, penggunaan teknologi AI yang tidak efisien atau tidak terkelola dengan baik dapat berkontribusi pada pemborosan sumber daya digital dan energi.
 
 ---
+
 # BAB 3 - PENUTUP
 
 ## 3.1 Kesimpulan
+
 Berdasarkan analisis kasus yang terkait dengan Air Canada, dapat disimpulkan bahwa pemanfaatan chatbot yang didukung kecerdasan buatan dalam layanan pelanggan mengandung risiko yang cukup besar. Salah satu hasil utama dalam kasus ini adalah fenomena hallucination, di mana sistem AI menciptakan informasi yang terlihat meyakinkan, tetapi tidak sesuai dengan kebijakan atau fakta yang sebenarnya.
 
 Kasus ini juga menekankan bahwa tanggung jawab terhadap informasi yang dihasilkan oleh sistem AI tetap ada pada perusahaan sebagai pemilik dan pengelola sistem. Walaupun kesalahan disebabkan oleh teknologi, hukum menyatakan bahwa AI tidak memiliki kemampuan sebagai subjek yang dapat dimintai tanggung jawab, sehingga tanggung jawab itu tidak bisa dipindahkan.
@@ -111,8 +121,8 @@ Dengan demikian, bisa disimpulkan bahwa penerapan AI dalam layanan publik perlu 
 
 ## DAFTAR PUSTAKA
 
-M. S. Amalia, "Peran Teknologi AI dalam Pengembangan Chatbot Layanan Pelanggan," *Jurnal Sistem Teknologi dan Informatika STMIK PLK*, vol. 10, no. 2, pp. 100–110, 2024.
+M. S. Amalia, "Peran Teknologi AI dalam Pengembangan Chatbot Layanan Pelanggan," _Jurnal Sistem Teknologi dan Informatika STMIK PLK_, vol. 10, no. 2, pp. 100–110, 2024.
 
-J. Smith et al., "Chatbots in Airlines: Are They Really Assisting?," *Journal of Airline Services and Marketing*, Wiley, 2026.
+J. Smith et al., "Chatbots in Airlines: Are They Really Assisting?," _Journal of Airline Services and Marketing_, Wiley, 2026.
 
-*Program Studi Teknik Informatika — Universitas Pancasila — 2026*
+_Program Studi Teknik Informatika — Universitas Pancasila — 2026_
