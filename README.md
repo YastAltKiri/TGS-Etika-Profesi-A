@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="media/image1.png" width="220" alt="Logo Universitas Pancasila">
-</p>
-
 <h1 align="center">ETIKA PROFESI – A</h1>
 <h3 align="center"><em>"Air Canada Chatbot Hallucination - 2024"</em></h3>
 
 <p align="center"><strong>Dosen Pengampu:</strong> Adi Wahyu Pribadi, S.Si., M.Kom.</p>
+
+<p align="center">
+  <img src="media/image1.png" width="220" alt="Logo Universitas Pancasila">
+</p>
 
 **Kelompok 5:**
 
