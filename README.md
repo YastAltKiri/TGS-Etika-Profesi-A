@@ -30,7 +30,7 @@
 **HEADER PEMETAAN**
 
 | **Informasi**             | **Detail**                                                                      |
-|---------------------------|---------------------------------------------------------------------------------|
+|:--------------------------|:--------------------------------------------------------------------------------|
 | **Nama Kelompok**         | Kelompok 5                                                                      |
 | **Nomor Kelompok**        | 5                                                                               |
 | **Kasus yang Dianalisis** | Air Canada Chatbot Hallucination — 2024 (Klaster B: Bias & Kegagalan Sistem AI) |
@@ -39,7 +39,7 @@
 **Anggota Kelompok & Pembagian Peran**
 
 | **No** | **Nama**                   | **NIM**    | **Peran / Segmen**                                              |
-|--------|----------------------------|------------|-----------------------------------------------------------------|
+|:-------|:---------------------------|:-----------|:----------------------------------------------------------------|
 | 1      | Riast Dwi Sanditya         | 4524210088 | Ketua & Bagian 1-2: Kronologi & Fakta Kunci                     |
 | 2      | Nadia Chelsea Alifia Ashab | 4524210072 | Bagian 6 & 8: Kode Etik & Integritas                            |
 | 3      | Najwa Khoerunnisa Suherman | 4524210076 | Bagian 4-5: Analisis Empat Teori Etika & Pancasila              |
@@ -49,7 +49,7 @@
 **Sub-CPMK yang Dicakup**
 
 | **Sub-CPMK**  | **Deskripsi**                                                 | **Bagian Laporan** |
-|---------------|---------------------------------------------------------------|--------------------|
+|:--------------|:--------------------------------------------------------------|:-------------------|
 | **Sub-CPMK1** | Analisis dilema etika dengan teori filsafat moral & kode etik | Bagian 1, 4, 5, 6  |
 | **Sub-CPMK2** | Evaluasi kepatuhan terhadap regulasi hukum & standar industri | Bagian 6, 7        |
 | **Sub-CPMK3** | Analisis dampak sosial & lingkungan                           | Bagian 2, 3, 10    |
@@ -67,15 +67,15 @@ Pemicu dan Interaksi Awal (November 2022): Jake Moffatt, seorang warga British C
 
 Informasi Menyesatkan dari Chatbot: Chatbot tersebut memberikan instruksi yang sangat spesifik: Moffatt harus memesan tiket dengan harga penuh terlebih dahulu, lalu mengajukan pengembalian dana selisih harga dalam waktu 90 hari. Faktanya, kebijakan resmi Air Canada menyatakan tarif berkabung tidak bisa diklaim secara surut (retroactive).
 
-Penolakan dan Eskalasi: Berpegang pada saran bot, Moffatt membayar CAN\$1.630,36. Saat mengajukan klaim 15 hari kemudian, ia ditolak oleh layanan pelanggan manusia yang mengakui bahwa bot tersebut memberikan kata-kata menyesatkan, namun tetap bersikeras pada kebijakan internal mereka.
+Penolakan dan Eskalasi: Berpegang pada saran bot, Moffatt membayar CAN$1.630,36. Saat mengajukan klaim 15 hari kemudian, ia ditolak oleh layanan pelanggan manusia yang mengakui bahwa bot tersebut memberikan kata-kata menyesatkan, namun tetap bersikeras pada kebijakan internal mereka.
 
-Proses Peradilan (Februari 2024): Moffatt menggugat ke Civil Resolution Tribunal (CRT) atas dasar "Pernyataan Salah karena Kelalaian" (Negligent Misrepresentation). Air Canada mengajukan pembelaan kontroversial bahwa chatbot adalah entitas hukum yang terpisah dan bertindak sebagai agen independen sehingga perusahaan tidak bertanggung jawab atas kesalahan bot tersebut.
+Proses Peradilan (Februari 2024): Moffatt menggugat ke Civil Resolution Tribunal (CRT) atas dasar “Pernyataan Salah karena Kelalaian” (Negligent Misrepresentation). Air Canada mengajukan pembelaan kontroversial bahwa chatbot adalah entitas hukum yang terpisah dan bertindak sebagai agen independen sehingga perusahaan tidak bertanggung jawab atas kesalahan bot tersebut.
 
-Putusan Hakim: Anggota Tribunal, Christopher Rivers, menolak argumen tersebut dan menyatakan bahwa chatbot hanyalah antarmuka situs web perusahaan. Air Canada diperintahkan membayar ganti rugi total CAN\$812,02.
+Putusan Hakim: Anggota Tribunal, Christopher Rivers, menolak argumen tersebut dan menyatakan bahwa chatbot hanyalah antarmuka situs web perusahaan. Air Canada diperintahkan membayar ganti rugi total CAN$812,02.
 
 **Analisis Dilema Etika: Perspektif Filsafat Moral**
 
-Deontologi (Kewajiban): Perusahaan memiliki kewajiban moral atau "Duty of Care" untuk memberikan informasi yang benar kepada pelanggan. Berdasarkan pandangan ini, mencoba melepaskan tanggung jawab dengan menyalahkan mesin adalah pelanggaran integritas kewajiban organisasi.
+Deontologi (Kewajiban): Perusahaan memiliki kewajiban moral atau “Duty of Care” untuk memberikan informasi yang benar kepada pelanggan. Berdasarkan pandangan ini, mencoba melepaskan tanggung jawab dengan menyalahkan mesin adalah pelanggaran integritas kewajiban organisasi.
 
 Utilitarianisme (Konsekuensi): Dari sudut pandang ini, kepercayaan pelanggan adalah mata uang utama dalam ekonomi digital. Memberikan informasi salah melalui AI merugikan utilitas sosial karena merusak kepercayaan publik pada sistem layanan otomatis secara keseluruhan.
 
@@ -83,9 +83,9 @@ Etika Keutamaan (Virtue Ethics): Kejujuran dan akuntabilitas adalah karakter yan
 
 **Bagian 2 - Fakta Kunci & Catatan Transparansi**
 
-Preseden Hukum Global: Kasus Moffatt v. Air Canada (2024) menetapkan bahwa perusahaan bertanggung jawab penuh secara hukum atas informasi yang diberikan oleh chatbot mereka. Hakim Christopher Rivers menolak pembelaan bahwa chatbot adalah "entitas hukum terpisah", dan menegaskan bahwa AI hanyalah antarmuka dari situs web perusahaan.
+Preseden Hukum Global: Kasus Moffatt v. Air Canada (2024) menetapkan bahwa perusahaan bertanggung jawab penuh secara hukum atas informasi yang diberikan oleh chatbot mereka. Hakim Christopher Rivers menolak pembelaan bahwa chatbot adalah “entitas hukum terpisah”, dan menegaskan bahwa AI hanyalah antarmuka dari situs web perusahaan.
 
-Ganti Rugi dan Kewajiban: Air Canada diperintahkan membayar CAN\$812,02 kepada Jake Moffatt karena memberikan informasi yang menyesatkan terkait kebijakan tarif berkabung (bereavement fare). Perusahaan dinyatakan gagal dalam duty of care (kewajiban kehati-hatian) karena tidak menyinkronkan data kebijakan secara real-time ke sistem AI mereka.
+Ganti Rugi dan Kewajiban: Air Canada diperintahkan membayar CAN$812,02 kepada Jake Moffatt karena memberikan informasi yang menyesatkan terkait kebijakan tarif berkabung (bereavement fare). Perusahaan dinyatakan gagal dalam duty of care (kewajiban kehati-hatian) karena tidak menyinkronkan data kebijakan secara real-time ke sistem AI mereka.
 
 Klasifikasi Halusinasi AI: Penelitian mengidentifikasi 8 kategori utama kesalahan pada konten yang dihasilkan AI (AIGC), yaitu: Overfitting (terlalu kaku pada data pelatihan), kesalahan logika, kesalahan penalaran, kesalahan matematika, fabrikasi tidak berdasar, kesalahan faktual, kesalahan keluaran teks, dan kesalahan lainnya [1].
 
@@ -105,15 +105,15 @@ Dalam menciptakan hukum dan kebijakan publik adalah untuk memaksimalkan kebahagi
 
 Dari perspektif utilitarianisme, Air Canada bisa berpendapat bahwa menggunakan chatbot AI membawa keuntungan bagi jutaan penumpang dengan layanan 24/7 yang efisien dan mengurangi waktu tunggu. Namun, jika dilihat lebih dekat, ada beberapa hal yang perlu dipertimbangkan:
 
--   **Manfaat yang Diklaim**
+- **Manfaat yang Diklaim**
 
 > Biaya operasional menjadi lebih rendah, bisa melayani lebih banyak orang, dan bisa merespons pertanyaan umum dengan cepat.
 
--   **Kerugian Aktual**
+- **Kerugian Aktual**
 
-> Satu insiden yang membuat reputasi Air Canada tercoreng dan mengakibatkan kerugian finansial yang jauh lebih besar daripada biaya yang dibayarkan, yaitu CAN\$812,02. Jika dilihat kasus lain yang serupa, kerugian total bisa menjadi sangat besar.
+> Satu insiden yang membuat reputasi Air Canada tercoreng dan mengakibatkan kerugian finansial yang jauh lebih besar daripada biaya yang dibayarkan, yaitu CAN$812,02. Jika dilihat kasus lain yang serupa, kerugian total bisa menjadi sangat besar.
 
--   **Kerentanan Situasional**
+- **Kerentanan Situasional**
 
 > Misinformasi yang terjadi ketika konsumen sedang mengalami situasi yang sangat sensitif, seperti berduka, chatbot bisa memberikan informasi yang salah. Ini membuat kerugian menjadi lebih parah.
 
@@ -131,17 +131,17 @@ Menekankan bahwa setiap individu harus diperlakukan sebagai tujuan itu sendiri, 
 
 **Penerapan dalam Kasus:**
 
-Kant mengajukan uji universalisabilitas: Dia menyatakan, "Coba pikirkan jika semua perusahaan memanfaatkan chatbot tanpa mengecek kebenaran informasinya, apakah kita setuju jika konsumen hanya dilihat sebagai alat efisiensi, bukan sebagai individu yang berharga?"
+Kant mengajukan uji universalisabilitas: Dia menyatakan, “Coba pikirkan jika semua perusahaan memanfaatkan chatbot tanpa mengecek kebenaran informasinya, apakah kita setuju jika konsumen hanya dilihat sebagai alat efisiensi, bukan sebagai individu yang berharga?”
 
--   **Kewajiban Kejujuran (duty of honesty)**
+- **Kewajiban Kejujuran (duty of honesty)**
 
 > Air Canada mempunyai tanggung jawab moral yang mutlak untuk menjamin bahwa semua informasi yang disampaikan kepada konsumen adalah akurat. Apabila chatbot memberikan informasi yang keliru, meskipun tanpa niat, hal itu sudah melanggar kewajiban ini. Air Canada menyadari bahwa sistem semacam itu dapat menghasilkan output yang tidak tepat.
 
--   **Manusia Sebagai Tujuan, Bukan Sebagai Alat**
+- **Manusia Sebagai Tujuan, Bukan Sebagai Alat**
 
 > Saat Air Canada mengganti interaksi langsung antar manusia dengan chatbot yang tidak diawasi memadai, mereka melihat konsumen sebagai sarana untuk mengurangi biaya, bukan sebagai individu yang berhak mendapatkan informasi yang akurat.
 
--   **Argumen "Entitas Terpisah"**
+- **Argumen “Entitas Terpisah”**
 
 > Secara deontologis, argumen ini tidak dapat diterima karena berusaha menghindari tanggung jawab. Individu atau entitas yang merancang dan memanfaatkan sistem itu harus bertanggung jawab atas hasil yang diperoleh.
 
@@ -151,7 +151,7 @@ Perbuatan Air Canada jelas melanggar kewajiban moral fundamenta. Mereka tidak me
 
 **4.3 Etika Virtue Kebajikan (Aristoteles)**
 
-Teori Kebajikan, yang juga disebut Eudaimonia, merupakan sebuah gagasan penting dalam etika Aristotelian yang dirumuskan oleh Aristoteles. Menurut Aristoteles, kehidupan manusia memiliki tujuan untuk meraih suatu kebajikan puncak yang dikenal sebagai Eudaimonia. Eudaimonia sering diartikan sebagai "Kebahagiaan", namun sebenarnya Aristoteles memahami istilah ini sebagai suatu perasaan yang lebih dalam dan bertahan lama dibandingkan hanya sekadar kebahagiaan sementara. Ini menunjukkan bahwa Eudaimonia tidak hanya sekadar merasakan kebahagiaan sementara [4].
+Teori Kebajikan, yang juga disebut Eudaimonia, merupakan sebuah gagasan penting dalam etika Aristotelian yang dirumuskan oleh Aristoteles. Menurut Aristoteles, kehidupan manusia memiliki tujuan untuk meraih suatu kebajikan puncak yang dikenal sebagai Eudaimonia. Eudaimonia sering diartikan sebagai “Kebahagiaan”, namun sebenarnya Aristoteles memahami istilah ini sebagai suatu perasaan yang lebih dalam dan bertahan lama dibandingkan hanya sekadar kebahagiaan sementara. Ini menunjukkan bahwa Eudaimonia tidak hanya sekadar merasakan kebahagiaan sementara [4].
 
 **Prinsip Dasar:**
 
@@ -159,23 +159,23 @@ Tindakan yang beretika mencerminkan karakter dan sifat positif individu, seperti
 
 **Penerapan pada Kasus:**
 
-Etika kebajikan bertanya: "Apakah perusahaan yang berkarakter baik akan bertindak demikian?"
+Etika kebajikan bertanya: “Apakah perusahaan yang berkarakter baik akan bertindak demikian?”
 
--   **Prudence (Kearifan Praktis)**
+- **Prudence (Kearifan Praktis)**
 
 > Sebuah perusahaan yang bijaksana akan memahami bahwa AI generatif dapat memproduksi informasi yang tidak akurat, terutama untuk kebijakan yang khusus dan berubah-ubah seperti bereavement fare. Kegagalan Air Canada dalam melaksanakan pengujian yang memadai menunjukkan ketiadaan prudence.
 
--   **Care (Kepedulian)**
+- **Care (Kepedulian)**
 
 > Konsumen yang sedang berduka mengalami keadaan emosional yang sangat sensitif. Perusahaan yang peduli akan menyediakan perlindungan ekstra untuk isu sensitif atau memastikan ada jalur ke agen manusia.
 
--   **Justice (Keadilan)**
+- **Justice (Keadilan)**
 
-> Apabila terbukti bahwa chatbot memberikan informasi yang keliru, tawaran voucher sebesar CAN\$200 (meskipun selisih tarif jauh lebih besar) dan alasan bahwa mereka adalah "entitas terpisah" menunjukkan bahwa Air Canada menghindari keadilan, bukan menegakkan keadilan.
+> Apabila terbukti bahwa chatbot memberikan informasi yang keliru, tawaran voucher sebesar CAN$200 (meskipun selisih tarif jauh lebih besar) dan alasan bahwa mereka adalah “entitas terpisah” menunjukkan bahwa Air Canada menghindari keadilan, bukan menegakkan keadilan.
 
--   **Integrity Integritas**
+- **Integrity Integritas**
 
-> Respons awal Air Canada, yang mengakui bahwa chatbot menyajikan "informasi yang menyesatkan" tetapi menolak untuk bertanggung jawab sepenuhnya, menunjukkan ketidakkonsistenan mereka dalam aspek moral.
+> Respons awal Air Canada, yang mengakui bahwa chatbot menyajikan “informasi yang menyesatkan” tetapi menolak untuk bertanggung jawab sepenuhnya, menunjukkan ketidakkonsistenan mereka dalam aspek moral.
 
 **Kesimpulan Etika Virtue:**
 
@@ -191,15 +191,15 @@ Setiap orang memiliki hak-hak dasar yang harus dihormati. Kontrak sosial serta p
 
 **Penerapan pada Kasus:**
 
--   **Hak Informasi yang Akurat**
+- **Hak Informasi yang Akurat**
 
 > Konsumen berhak atas informasi akurat dari perusahaan yang mereka percayai, terutama dalam pengambilan keputusan finansial yang signifikan. Air Canada tidak menjalankan hak ini.
 
--   **Hak atas Transparansi AI**
+- **Hak atas Transparansi AI**
 
 > Konsumen juga berhak menyadari bahwa mereka berinteraksi dengan sistem komputer yang mungkin keliru, dan bahwa informasi yang disampaikan harus diverifikasi kembali. Hal ini krusial agar pelanggan tidak mengalami salah paham.
 
--   **Kontrak Implisit**
+- **Kontrak Implisit**
 
 > Dengan menambahkan chatbot di situs web resmi mereka sebagai sarana untuk menyampaikan informasi, Air Canada secara tidak langsung menjanjikan kepada konsumen bahwa informasi yang disediakan dapat dipercaya. Sayangnya, Air Canada tidak memenuhi janji ini.
 
@@ -209,19 +209,14 @@ Tindakan Air Canada tidak sejalan dengan hak konsumen untuk memperoleh informasi
 
 **Ringkasan Posisi Empat Teori**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------
-  **Teori**                **Posisi atas Tindakan Air Canada**   **Argumen Inti**
-  ------------------------ ------------------------------------- ---------------------------------------------------------------------------------
-  Utilitarianisme          Tidak Etis                            Total kerugian (finansial + emosional + kepercayaan) \> manfaat efisiensi
+| **Teori**              | **Posisi atas Tindakan Air Canada** | **Argumen Inti**                                                                |
+|:-----------------------|:------------------------------------|:--------------------------------------------------------------------------------|
+| Utilitarianisme        | Tidak Etis                          | Total kerugian (finansial + emosional + kepercayaan) \> manfaat efisiensi       |
+| Deontologi             | Tidak Etis                          | Melanggar kewajiban kejujuran dan kewajiban menghormati konsumen sebagai tujuan |
+| Etika Virtue Kebajikan | Tidak Etis                          | Menunjukkan ketiadaan prudence, care, justice, dan integrity                    |
+| Etika Hak              | Tidak Etis                          | Melanggar hak konsumen atas informasi akurat dan kontrak implisit kepercayaan   |
 
-  Deontologi               Tidak Etis                            Melanggar kewajiban kejujuran dan kewajiban menghormati konsumen sebagai tujuan
-
-  Etika Virtue Kebajikan   Tidak Etis                            Menunjukkan ketiadaan prudence, care, justice, dan integrity
-
-  Etika Hak                Tidak Etis                            Melanggar hak konsumen atas informasi akurat dan kontrak implisit kepercayaan
-  ------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Bagian 5 - Lensa Kelima --- Pancasila**
+**Bagian 5 - Lensa Kelima — Pancasila**
 
 **Analisis Sila Pancasila yang Relevan**
 
@@ -231,7 +226,7 @@ Sila pertama mencerminkan nilai-nilai kejujuran, kepercayaan, dan tanggung jawab
 
 **Sila 2: Kemanusiaan yang Adil dan Beradab**
 
-Sila kedua menekankan pentingnya menghargai martabat manusia dan memberikan perlakuan yang adil. Kasus ini langsung melanggar sila kedua dari dua sudut pandang: pertama, Moffatt mendapatkan informasi yang salah dari chatbot ketika ia sedang sangat membutuhkan bantuan karena ia berduka. Kedua, Air Canada berusaha untuk menghindari tanggung jawab dengan mengatakan bahwa chatbot adalah sebuah "entitas terpisah". Ini adalah upaya untuk menghilangkan nilai kemanusiaan dalam hubungan antara perusahaan dan konsumen, dengan menyalahkan "mesin" dan bukan mengakui kesalahan mereka sendiri. Seharusnya, teknologi digunakan untuk meningkatkan kualitas hidup manusia, bukan untuk menghindari tanggung jawab kepada mereka yang dirugikan.
+Sila kedua menekankan pentingnya menghargai martabat manusia dan memberikan perlakuan yang adil. Kasus ini langsung melanggar sila kedua dari dua sudut pandang: pertama, Moffatt mendapatkan informasi yang salah dari chatbot ketika ia sedang sangat membutuhkan bantuan karena ia berduka. Kedua, Air Canada berusaha untuk menghindari tanggung jawab dengan mengatakan bahwa chatbot adalah sebuah “entitas terpisah”. Ini adalah upaya untuk menghilangkan nilai kemanusiaan dalam hubungan antara perusahaan dan konsumen, dengan menyalahkan “mesin” dan bukan mengakui kesalahan mereka sendiri. Seharusnya, teknologi digunakan untuk meningkatkan kualitas hidup manusia, bukan untuk menghindari tanggung jawab kepada mereka yang dirugikan.
 
 **Sila 3: Persatuan Indonesia (Adaptasi Universal)**
 
@@ -245,21 +240,15 @@ Dalam perspektif rekayasa, peluncuran chatbot AI tanpa diskusi yang cukup dengan
 
 **Sila 5: Keadilan Sosial bagi Seluruh Rakyat Indonesia (Adaptasi Universal: Keadilan bagi Seluruh Pengguna)**
 
-Sila kelima menginginkan keadilan yang adil dan bebas dari diskriminasi. Pengguna chatbot yang merasakan kerugian akibat kesalahan teknologi ini perlu memperoleh keadilan yang sama. Argumen Air Canada yang berupaya menghindar dari tanggung jawab dengan alasan "entitas terpisah" sebenarnya mendahulukan kepentingan perusahaan di atas keadilan bagi konsumen secara individu, yang bertentangan dengan prinsip keadilan sosial yang merata.
+Sila kelima menginginkan keadilan yang adil dan bebas dari diskriminasi. Pengguna chatbot yang merasakan kerugian akibat kesalahan teknologi ini perlu memperoleh keadilan yang sama. Argumen Air Canada yang berupaya menghindar dari tanggung jawab dengan alasan “entitas terpisah” sebenarnya mendahulukan kepentingan perusahaan di atas keadilan bagi konsumen secara individu, yang bertentangan dengan prinsip keadilan sosial yang merata.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Nilai**         **Relevansi dengan Kasus**
-  ----------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Integritas        Air Canada gagal menjaga integritas informasi dalam sistem chatbot-nya. Awalnya mereka menerima tanggung jawab, tapi kemudian mereka tidak mau memberikan kompensasi yang mencerminkan inkonsistensi integritas.
-
-  Kepedulian        Mereka tidak memiliki sistem khusus yang diterapkan untuk melindungi konsumen yang berinteraksi dalam situasi duka (high-sensitivity scenario), untuk memberikan perhatian lebih dan perlindungan tambahan untuk pengguna yang rentan.
-
-  Harmonis          Perbedaan antara informasi chatbot dan kebijakan resmi menciptakan ketidakharmonisan yang merugikan konsumen.
-
-  Kolaboratif       Tidak ada kerja sama antara tim teknis (AI developers), tim kebijakan, dan tim hukum dalam memastikan konsistensi informasi di seluruh platform.
-
-  Profesionalisme   Profesionalisme dalam rekayasa AI menuntut pengujian menyeluruh, dokumentasi batas kemampuan sistem, dan mekanisme eskalasi ke manusia untuk kasus sensitif.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **Nilai**       | **Relevansi dengan Kasus**                                                                                                                                                                                                             |
+|:----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Integritas      | Air Canada gagal menjaga integritas informasi dalam sistem chatbot-nya. Awalnya mereka menerima tanggung jawab, tapi kemudian mereka tidak mau memberikan kompensasi yang mencerminkan inkonsistensi integritas.                       |
+| Kepedulian      | Mereka tidak memiliki sistem khusus yang diterapkan untuk melindungi konsumen yang berinteraksi dalam situasi duka (high-sensitivity scenario), untuk memberikan perhatian lebih dan perlindungan tambahan untuk pengguna yang rentan. |
+| Harmonis        | Perbedaan antara informasi chatbot dan kebijakan resmi menciptakan ketidakharmonisan yang merugikan konsumen.                                                                                                                          |
+| Kolaboratif     | Tidak ada kerja sama antara tim teknis (AI developers), tim kebijakan, dan tim hukum dalam memastikan konsistensi informasi di seluruh platform.                                                                                       |
+| Profesionalisme | Profesionalisme dalam rekayasa AI menuntut pengujian menyeluruh, dokumentasi batas kemampuan sistem, dan mekanisme eskalasi ke manusia untuk kasus sensitif.                                                                           |
 
 **11.2 Daftar Pustaka**
 
@@ -269,8 +258,8 @@ Sila kelima menginginkan keadilan yang adil dan bebas dari diskriminasi. Penggun
 
 [3] Bentham, J. (1907). An Introduction to the Principles of Morals and Legislation. Oxford: Clarendon Press.
 
-[4] S. F. Buran and B. S. Hayon, "Moralitas dan Kewajiban: Pemikiran Etis Emanuel Kant", AKSIOMA, vol. 1, no. 12, pp. 1011--1019, Dec. 2024, doi: 10.62335/5b0fhq67.
+[4] S. F. Buran and B. S. Hayon, “Moralitas dan Kewajiban: Pemikiran Etis Emanuel Kant”, AKSIOMA, vol. 1, no. 12, pp. 1011–1019, Dec. 2024, doi: 10.62335/5b0fhq67.
 
-[5] R. M. Sidiq and Wisnu Saputra, "Pengaruh Teori Etika Kebajikan Aristoteles Terhadap Penanganan Kenakalan Remaja Di Indonesia", NUSANTARA, vol. 1, no. 02, Jan. 2024.
+[5] R. M. Sidiq and Wisnu Saputra, “Pengaruh Teori Etika Kebajikan Aristoteles Terhadap Penanganan Kenakalan Remaja Di Indonesia”, NUSANTARA, vol. 1, no. 02, Jan. 2024.
 
 [6] Locke, J. (1968). Two Treatises of Government. York University.
