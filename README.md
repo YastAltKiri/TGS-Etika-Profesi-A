@@ -1,82 +1,63 @@
-**ETIKA PROFESI -- A** ![](media/image1.png){width="2.9270833333333335in" height="2.8490277777777777in"}
+<p align="center">
+  <img src="media/image1.png" width="220" alt="Logo Universitas Pancasila">
+</p>
 
-**"Air Canada Chatbot Hallucination - 2024"**
+<h1 align="center">ETIKA PROFESI – A</h1>
+<h3 align="center"><em>"Air Canada Chatbot Hallucination - 2024"</em></h3>
 
-Dosen Pengampu: Adi Wahyu Pribadi, S.Si., M.Kom.
+<p align="center"><strong>Dosen Pengampu:</strong> Adi Wahyu Pribadi, S.Si., M.Kom.</p>
 
-Kelompok 5:
+**Kelompok 5:**
 
-1.  Riast Dwi Sanditya 4524210088
+1. Riast Dwi Sanditya — 4524210088
+2. Nadia Chelsea Alifia Ashab — 4524210072
+3. Najwa Khoerunnisa Suherman — 4524210076
+4. Sarah Syafitri Hilmi — 4524210096
+5. Rizka Ainun Nazori — 4524210092
 
-2.  Nadia Chelsea Alifia Ashab 4524210072
+<p align="center">
+<strong>PROGRAM STUDI TEKNIK INFORMATIKA</strong><br>
+<strong>UNIVERSITAS PANCASILA</strong><br>
+<strong>2026</strong>
+</p>
 
-3.  Najwa Khoerunnisa Suherman 4524210076
+---
 
-4.  Sarah Syafitri Hilmi 4524210096
-
-5.  Rizka Ainun Nazori 4524210092
-
-**PROGRAM STUDI TEKNIK INFORMATIKA**
-
-**UNIVERSITAS PANCASILA**
-
-**2026**
-
-**LAPORAN INVESTIGASI PBL --- ETIKA PROFESI**
+**LAPORAN INVESTIGASI PBL — ETIKA PROFESI**
 
 **Kasus: Air Canada Chatbot Hallucination (Moffatt v. Air Canada, 2024 BCCRT 149)**
 
 **HEADER PEMETAAN**
 
-  ---------------------------------------------------------------------------------------------------------------
-  **Informasi**               **Detail**
-  --------------------------- -----------------------------------------------------------------------------------
-  **Nama Kelompok**           Kelompok 5
-
-  **Nomor Kelompok**          5
-
-  **Kasus yang Dianalisis**   Air Canada Chatbot Hallucination --- 2024 (Klaster B: Bias & Kegagalan Sistem AI)
-
-  **Mata Kuliah**             Etika Profesi
-  ---------------------------------------------------------------------------------------------------------------
+| **Informasi**             | **Detail**                                                                      |
+|---------------------------|---------------------------------------------------------------------------------|
+| **Nama Kelompok**         | Kelompok 5                                                                      |
+| **Nomor Kelompok**        | 5                                                                               |
+| **Kasus yang Dianalisis** | Air Canada Chatbot Hallucination — 2024 (Klaster B: Bias & Kegagalan Sistem AI) |
+| **Mata Kuliah**           | Etika Profesi                                                                   |
 
 **Anggota Kelompok & Pembagian Peran**
 
-  --------------------------------------------------------------------------------------------------------------------
-  **No**   **Nama**                     **NIM**      **Peran / Segmen**
-  -------- ---------------------------- ------------ -----------------------------------------------------------------
-  1        Riast Dwi Sanditya           4524210088   Ketua & Bagian 1-2: Kronologi & Fakta Kunci
-
-  2        Nadia Chelsea Alifia Ashab   4524210072   Bagian 6 & 8: Kode Etik & Integritas
-
-  3        Najwa Khoerunnisa Suherman   4524210076   Bagian 4-5: Analisis Empat Teori Etika & Pancasila
-
-  4        Sarah Syafitri Hilmi         4524210092   Bagian 7 & 9: Regulasi & Manajemen Resiko
-
-  5        Rizka Ainun Nazori           4524210096   Bagian 3 & 10: Pemetaan Pemangku Kepentingan & Rancangan Dampak
-  --------------------------------------------------------------------------------------------------------------------
+| **No** | **Nama**                   | **NIM**    | **Peran / Segmen**                                              |
+|--------|----------------------------|------------|-----------------------------------------------------------------|
+| 1      | Riast Dwi Sanditya         | 4524210088 | Ketua & Bagian 1-2: Kronologi & Fakta Kunci                     |
+| 2      | Nadia Chelsea Alifia Ashab | 4524210072 | Bagian 6 & 8: Kode Etik & Integritas                            |
+| 3      | Najwa Khoerunnisa Suherman | 4524210076 | Bagian 4-5: Analisis Empat Teori Etika & Pancasila              |
+| 4      | Sarah Syafitri Hilmi       | 4524210092 | Bagian 7 & 9: Regulasi & Manajemen Resiko                       |
+| 5      | Rizka Ainun Nazori         | 4524210096 | Bagian 3 & 10: Pemetaan Pemangku Kepentingan & Rancangan Dampak |
 
 **Sub-CPMK yang Dicakup**
 
-  ----------------------------------------------------------------------------------------------------
-  **Sub-CPMK**    **Deskripsi**                                                   **Bagian Laporan**
-  --------------- --------------------------------------------------------------- --------------------
-  **Sub-CPMK1**   Analisis dilema etika dengan teori filsafat moral & kode etik   Bagian 1, 4, 5, 6
-
-  **Sub-CPMK2**   Evaluasi kepatuhan terhadap regulasi hukum & standar industri   Bagian 6, 7
-
-  **Sub-CPMK3**   Analisis dampak sosial & lingkungan                             Bagian 2, 3, 10
-
-  **Sub-CPMK4**   Evaluasi risiko etis dengan kerangka ISO 31000                  Bagian 9
-
-  **Sub-CPMK5**   Analisis integritas & penyalahgunaan kewenangan                 Bagian 8
-
-  **Sub-CPMK7**   Perumusan strategi mitigasi & kontrol preventif                 Bagian 9, 10
-
-  **Sub-CPMK8**   Demonstrasi hasil investigasi dalam forum profesional           Bagian 11
-
-  **Sub-CPMK9**   Refleksi prinsip etika ke dalam rencana integritas karier       Bagian 11
-  ----------------------------------------------------------------------------------------------------
+| **Sub-CPMK**  | **Deskripsi**                                                 | **Bagian Laporan** |
+|---------------|---------------------------------------------------------------|--------------------|
+| **Sub-CPMK1** | Analisis dilema etika dengan teori filsafat moral & kode etik | Bagian 1, 4, 5, 6  |
+| **Sub-CPMK2** | Evaluasi kepatuhan terhadap regulasi hukum & standar industri | Bagian 6, 7        |
+| **Sub-CPMK3** | Analisis dampak sosial & lingkungan                           | Bagian 2, 3, 10    |
+| **Sub-CPMK4** | Evaluasi risiko etis dengan kerangka ISO 31000                | Bagian 9           |
+| **Sub-CPMK5** | Analisis integritas & penyalahgunaan kewenangan               | Bagian 8           |
+| **Sub-CPMK7** | Perumusan strategi mitigasi & kontrol preventif               | Bagian 9, 10       |
+| **Sub-CPMK8** | Demonstrasi hasil investigasi dalam forum profesional         | Bagian 11          |
+| **Sub-CPMK9** | Refleksi prinsip etika ke dalam rencana integritas karier     | Bagian 11          |
 
 **Bagian 1 - Kronologi & Konteks**
 
