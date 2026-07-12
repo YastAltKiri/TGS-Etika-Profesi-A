@@ -43,8 +43,8 @@
 | 1      | Riast Dwi Sanditya         | 4524210088 | Ketua & Bagian 1-2: Kronologi & Fakta Kunci                     |
 | 2      | Nadia Chelsea Alifia Ashab | 4524210072 | Bagian 6 & 8: Kode Etik & Integritas                            |
 | 3      | Najwa Khoerunnisa Suherman | 4524210076 | Bagian 4-5: Analisis Empat Teori Etika & Pancasila              |
-| 4      | Sarah Syafitri Hilmi       | 4524210092 | Bagian 7 & 9: Regulasi & Manajemen Resiko                       |
-| 5      | Rizka Ainun Nazori         | 4524210096 | Bagian 3 & 10: Pemetaan Pemangku Kepentingan & Rancangan Dampak |
+| 4      | Sarah Syafitri Hilmi       | 4524210096 | Bagian 7 & 9: Regulasi & Manajemen Resiko                       |
+| 5      | Rizka Ainun Nazori         | 4524210092 | Bagian 3 & 10: Pemetaan Pemangku Kepentingan & Rancangan Dampak |
 
 **Sub-CPMK yang Dicakup**
 
@@ -90,6 +90,23 @@ Ganti Rugi dan Kewajiban: Air Canada diperintahkan membayar CAN$812,02 kepada Ja
 Klasifikasi Halusinasi AI: Penelitian mengidentifikasi 8 kategori utama kesalahan pada konten yang dihasilkan AI (AIGC), yaitu: Overfitting (terlalu kaku pada data pelatihan), kesalahan logika, kesalahan penalaran, kesalahan matematika, fabrikasi tidak berdasar, kesalahan faktual, kesalahan keluaran teks, dan kesalahan lainnya [1].
 
 Risiko Fabrikasi: Studi menunjukkan bahwa AI dapat memfabrikasi referensi ilmiah atau opini tanpa bukti yang memadai, yang sering kali terdengar sangat meyakinkan namun sepenuhnya salah [1].
+
+**Bagian 3 - Pemetaan Pemangku Kepentingan**
+
+| **Pemangku Kepentingan** | **Peran/Kepentingan**                                                       | **Dampak yang Dialami**                                                                                           |
+|:-------------------------|:----------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------|
+| Pelanggan (Jake Moffatt) | Menggunakan chatbot untuk memperoleh informasi tarif dan kebijakan maskapai | Mengalami kerugian finansial akibat informasi yang salah serta kehilangan kepercayaan terhadap layanan Air Canada |
+| Air Canada               | Penyedia layanan dan penanggung jawab chatbot AI                            | Mengalami kerugian reputasi, diwajibkan memberikan kompensasi, dan menghadapi risiko hukum                        |
+| Tim Pengembang AI        | Mengembangkan dan memelihara sistem chatbot                                 | Harus memperbaiki model AI dan meningkatkan validasi agar hallucination tidak terulang                            |
+| Manajemen Air Canada     | Mengawasi penerapan AI dan tata kelola perusahaan                           | Bertanggung jawab mengevaluasi kebijakan serta memperkuat manajemen risiko AI                                     |
+| Regulator/Pemerintah     | Mengawasi perlindungan konsumen dan penggunaan AI                           | Terdorong menyusun regulasi AI yang lebih jelas terkait akuntabilitas dan transparansi                            |
+| Masyarakat/Pengguna AI   | Menggunakan layanan AI dalam kehidupan sehari-hari                          | Kepercayaan terhadap teknologi AI dapat menurun apabila kesalahan serupa terus terjadi                            |
+
+**Analisis Sosial**
+
+Kasus yang melibatkan Air Canada memperlihatkan bahwa kesalahan informasi yang berasal dari AI tidak hanya merugikan individu yang terkena dampak, tetapi juga mempengaruhi kepercayaan masyarakat terhadap penggunaan AI dalam layanan publik dan bisnis. Penurunan kepercayaan itu bisa menghambat penerimaan teknologi AI karena pengguna menjadi skeptis terhadap keakuratan informasi yang diberikan.
+
+Di sisi lain, kasus ini menunjukkan betapa pentingnya tanggung jawab perusahaan dalam penggunaan AI. Pengadilan menegaskan bahwa perusahaan tetap bertanggung jawab atas informasi yang disediakan oleh chatbot karena chatbot merupakan bagian dari layanan resmi perusahaan. Oleh karena itu, penerapan AI perlu diiringi dengan pengelolaan yang baik agar manfaat teknologi dapat dirasakan tanpa mengorbankan hak-hak konsumen.
 
 **Bagian 4 - Analisis Empat Teori Etika**
 
@@ -282,6 +299,48 @@ Berdasarkan **ACM Code of Ethics and Professional Conduct**, Air Canada telah me
 
 Dengan demikian, kasus Air Canada menunjukkan pentingnya penerapan prinsip transparansi, akuntabilitas, keadilan, serta keamanan dan privasi dalam penggunaan AI. Sebagaimana dijelaskan oleh Nasman, Astuti, dan Perwitasari (2024), penerapan prinsip-prinsip tersebut diperlukan agar sistem AI tetap dapat dipertanggungjawabkan dan tidak menimbulkan kerugian bagi pengguna. Oleh karena itu, organisasi yang memanfaatkan AI harus melakukan pengawasan, evaluasi, dan perbaikan secara berkelanjutan sehingga penggunaan teknologi benar-benar memberikan manfaat bagi masyarakat.[7]
 
+**Bagian 7 - Analisis Regulasi & Hukum**
+
+**Analisis Regulasi Indonesia**
+
+1.  **Undang-Undang Perlindungan Data Pribadi (UU PDP) No. 27 Tahun 2022**
+
+> UU PDP menetapkan kerangka hukum nasional untuk perlindungan data pribadi di Indonesia. Undang-undang ini mengatur hak subjek data (akses, koreksi, penghapusan, keberatan) serta kewajiban pengendali dan pemroses data, dengan sanksi administratif dan pidana bagi pelanggar. Regulations
+>
+> Meskipun UU PDP memasukkan prinsip-prinsip penting seperti persetujuan, otoritas tujuan, dan akuntabilitas, penerapannya pada sistem berbasis AI masih menghadapi beberapa kendala termasuk ambiguitas mengenai subjek hukum ketika AI bertindak secara otonom, transparansi algoritma yang terbatas, dan tidak adanya peraturan pelaksana khusus yang mengatur pemrosesan data berbasis AI. Hsnpublisher
+>
+> Dalam konteks kasus Air Canada, jika dianalogikan ke Indonesia, operator chatbot selaku pengendali data (data controller) wajib memastikan akurasi informasi yang diproses dan disajikan kepada pengguna. Kegagalan menjaga akurasi output chatbot dapat dikualifikasikan sebagai pelanggaran Pasal 20 UU PDP tentang kewajiban akuntabilitas pengendali data, dan Pasal 57 tentang sanksi administratif berupa denda.
+>
+> Meskipun Indonesia telah memiliki UU PDP, masih terdapat kelemahan dalam aspek implementasi, pengawasan, dan adaptasi terhadap teknologi baru seperti AI. Oleh karena itu, diperlukan pembentukan peraturan turunan serta lembaga independen yang berwenang guna menjamin penerapan hukum secara efektif dan adil. Sshpublikasi
+
+2.  **Undang-Undang ITE No. 11 Tahun 2008 jo. No. 1 Tahun 2024 & PP No. 71 Tahun 2019**
+
+> Berdasarkan penelitian yuridis normatif, terdapat regulasi yang dapat dijadikan acuan penggunaan AI chatbot, antara lain UU ITE serta PP Nomor 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi Elektronik (PP PSTE). Dalam hal ini, AI chatbot sebagai Agen Elektronik dianggap berada di bawah tanggung jawab perusahaan penyedia layanan AI chatbot sebagai Penyelenggara Sistem Elektronik (PSE). SOCA Journal
+>
+> Pasal 21 UU ITE mengatur bahwa penyelenggaraan agen elektronik dalam konteks transaksi elektronik harus memenuhi standar peraturan. Oleh karena itu, setiap PSE wajib memastikan bahwa sistem yang mereka operasikan aman, dapat diandalkan, dan bertanggung jawab sesuai Pasal 3 ayat (1) jo. Pasal 8 PP PSTE. Penyelenggara agen elektronik atau PSE wajib memastikan bahwa kegagalan atau kesalahan dalam operasional sistem elektronik tidak disebabkan oleh kelalaian pengguna hal ini diatur dalam Pasal 8, Pasal 29, dan Pasal 31 PP PSTE. SOCA Journal
+>
+> Secara normatif, “bertanggung jawab” dalam UU ITE berarti ada subjek hukum yang bertanggung jawab secara hukum terhadap penyelenggaraan sistem elektronik tersebut. Komdigi
+>
+> Ini sepenuhnya selaras dengan putusan Tribunal Kanada: operator sistem (PSE) tidak dapat mengalihkan tanggung jawab kepada “sistem AI-nya” analogi langsung dengan argumen Air Canada yang ditolak.
+
+3.  **Regulasi Sektoral Terkait**
+
+> Indonesia belum memiliki regulasi AI khusus. Namun, Surat Edaran Kemenkominfo Nomor 9 Tahun 2023 menegaskan pentingnya prinsip etika dalam pengembangan AI, menekankan transparansi, akuntabilitas, serta non-diskriminasi. Di sektor keuangan, OJK bersama asosiasi fintech menginisiasi kode etik AI yang mencakup aspek transparansi algoritma, perlindungan konsumen, dan mitigasi risiko bias. Tentang AI
+>
+> Tata Kelola Kecerdasan Artifisial Perbankan Indonesia yang diterbitkan OJK berlandaskan UU P2SK No. 4 Tahun 2023, UU PDP, dan UU ITE. Ketentuan Pasal 21 UU ITE sangat relevan bagi bank yang menggunakan AI dalam operasionalnya, sebab seluruh akibat hukum dari keputusan atau tindakan yang diambil oleh sistem AI menjadi tanggung jawab bank sebagai PSE. LK2 FHUI
+
+**Pemisahan Tegas: Tanggung Jawab Hukum vs. Moral**
+
+| **Dimensi**        | **Tanggung Jawab Hukum**                                                              | **Tanggung Jawab Moral**                                                         |
+|:-------------------|:--------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+| Dasar              | UU ITE Ps. 15, 21; UU PDP Ps. 20, 57; KUHPerdata Ps. 1365 (perbuatan melawan hukum)   | Prinsip etika AI; SE Kominfo 9/2023; OECD AI Principles                          |
+| Subjek             | PSE / pengendali data (korporasi)                                                     | Developer, operator, manajemen puncak                                            |
+| Sanksi             | Ganti rugi, denda administratif, pidana                                               | Reputasi, kepercayaan publik, tanggung jawab internal                            |
+| Pembuktian         | Harus dibuktikan di pengadilan/BPSK                                                   | Tidak perlu pembuktian formal                                                    |
+| Analogi Air Canada | Air Canada diwajibkan membayar **CAD $812** atas dasar *negligent misrepresentation* | Air Canada secara moral lalai tidak memasang mekanisme verifikasi output chatbot |
+
+Kasus ini memiliki signifikansi hukum sekaligus moral. Pertama adalah responsibility gap, tantangan dalam tradisi tanggung jawab hukum dan moral: ketika seseorang dirugikan oleh AI, siapa yang bertanggung jawab? Kesulitan dalam mengatribusikan tanggung jawab dalam konteks AI disebabkan oleh adanya “banyak tangan”Banyak orang yang terlibat dalam pengembangan perangkat lunak dan implementasinya. Springer
+
 **Bagian 8 - Checkpoint Integritas & Anti-Korupsi**
 
 Apabila kasus serupa melibatkan instansi pemerintah atau BUMN yang mengoperasikan chatbot di Indonesia, analisis UU Tipikor menjadi relevan.
@@ -428,6 +487,78 @@ Berdasarkan prinsip ISO 31000 integrasi risiko ke dalam proses organisasi, pende
 
 - Continuous auditing: pergeseran dari audit siklis (cyclical audit) ke pemantauan terus-menerus (always-on monitoring) terhadap chatbot CS dan sistem AI lainnya, untuk mendeteksi model hallucination dan algorithm bias sebelum menjadi insiden.
 
+**Bagian 9 - Manajemen Risiko & Opsi 4T**
+
+Manajemen risiko merupakan proses sistematis untuk mengidentifikasi, menganalisis, mengevaluasi, dan mengendalikan risiko yang dapat mempengaruhi pencapaian tujuan organisasi. Berdasarkan standar **ISO 31000**, penerapan manajemen risiko membantu organisasi dalam mengelola ketidakpastian melalui tahapan identifikasi risiko, analisis risiko, evaluasi risiko, penanganan risiko, serta pemantauan secara berkelanjutan sehingga potensi kerugian dapat diminimalkan.[8]
+
+Pada kasus Air Canada, penggunaan chatbot berbasis Artificial Intelligence (AI) menimbulkan risiko karena sistem memberikan informasi yang tidak sesuai dengan kebijakan perusahaan mengenai *bereavement fare*. Akibatnya, pelanggan mengalami kerugian finansial dan perusahaan menghadapi gugatan hukum. Pengadilan menyatakan bahwa Air Canada tetap bertanggung jawab atas seluruh informasi yang diberikan chatbot karena chatbot merupakan bagian dari sistem layanan perusahaan.[9]
+
+### **Opsi Penanganan Risiko (4T)**
+
+1.  **Treat (Mengurangi Risiko)**
+
+> Strategi *Treat* dilakukan dengan mengurangi kemungkinan maupun dampak risiko. Air Canada perlu melakukan pengujian (*testing*) dan pembaruan (*updating*) chatbot secara berkala, memastikan seluruh informasi yang diberikan sesuai dengan kebijakan perusahaan, memberikan *disclaimer* mengenai keterbatasan chatbot, membatasi jawaban chatbot pada informasi tertentu, serta melakukan pemantauan (*monitoring*) secara terus-menerus. Langkah tersebut sejalan dengan rekomendasi dalam artikel yang menekankan pentingnya pengawasan, pengujian rutin, pembaruan sistem, serta penyusunan kebijakan penggunaan chatbot untuk meminimalkan risiko kesalahan informasi.[9]
+
+2.  **Tolerate (Menerima Risiko)**
+
+> Strategi *Tolerate* diterapkan terhadap risiko yang memiliki dampak relatif kecil dan masih berada dalam batas toleransi organisasi. Misalnya, kesalahan chatbot pada informasi umum yang tidak menimbulkan kerugian finansial dapat diterima sementara dengan tetap dilakukan pemantauan dan evaluasi secara berkala sesuai prinsip manajemen risiko ISO 31000.[8]
+
+3.  **Transfer (Mengalihkan Risiko)**
+
+> Strategi *Transfer* dilakukan dengan mengalihkan sebagian risiko kepada pihak lain, misalnya melalui kontrak kerja sama dengan penyedia teknologi AI, penerapan *Service Level Agreement* (SLA), atau penggunaan asuransi siber (*cyber insurance*). Dengan demikian, tanggung jawab terhadap risiko teknis tertentu dapat dibagi sesuai kesepakatan sehingga potensi kerugian organisasi dapat diminimalkan.
+
+4.  **Terminate (Menghindari Risiko)**
+
+> Strategi *Terminate* dilakukan apabila risiko dinilai terlalu besar dan tidak dapat diterima oleh organisasi. Pada kasus Air Canada, penghentian sementara layanan chatbot hingga sistem diperbaiki merupakan langkah yang dapat dilakukan untuk mencegah terulangnya penyampaian informasi yang salah. Artikel juga menunjukkan bahwa setelah putusan pengadilan, layanan chatbot Air Canada tidak lagi tersedia, yang mengindikasikan adanya penghentian sementara sebagai bagian dari upaya pengendalian risiko.[9]
+
+**Bagian 10 - Rancangan Dampak & Kontrol Preventif**
+
+**Rancangan Dampak**
+
+Apabila perusahaan tidak menerapkan kontrol yang memadai terhadap chatbot AI, dampak yang dapat terjadi meliputi:
+
+1.  Dampak bagi konsumen, meliputi kerugian uang, kesalahan dalam membuat keputusan, serta berkurangnya kepercayaan terhadap layanan digital.[10]
+
+2.  Dampak bagi perusahaan, yang mencakup penurunan citra, kemungkinan menghadapi gugatan, peningkatan pengeluaran untuk kompensasi, dan berkurangnya kesetiaan dari pelanggan.
+
+3.  Dampak bagi masyarakat, yaitu meningkatnya keraguan terhadap penggunaan AI serta berkurangnya kepercayaan terhadap transformasi digital.
+
+4.  Dampak bagi regulator, yaitu adanya kebutuhan yang semakin mendesak untuk merumuskan regulasi AI yang lebih menyeluruh mengenai aspek transparansi, akuntabilitas, dan perlindungan bagi konsumen.
+
+**Kontrol preventif**
+
+Untuk meminimalkan risiko tersebut, beberapa langkah pencegahan yang dapat diterapkan adalah:
+
+1.  **Human-in-the-Loop (HITL)**
+
+> Data penting seperti biaya, kebijakan pengembalian dana, serta informasi hukum perlu diperiksa oleh seseorang atau langsung diakses dari sumber resmi agar chatbot tidak memberikan informasi yang salah.
+
+2.  **Monitoring dan Audit Berkala**
+
+> Perusahaan harus mengevaluasi secara berkala bagaimana baiknya chatbot bekerja, seperti menguji kebenaran jawaban yang diberikan, mencatat kesalahan yang terjadi, dan memperbarui model AI secara rutin.
+
+3.  **Tansparansi AI**
+
+> Chatbot wajib memberi tahu pengguna bahwa jawaban yang diberikan berasal dari AI dan menyarankan agar pengguna memeriksa informasi yang penting melalui sumber resmi atau petugas layanan pelanggan. [11]
+
+4.  **Tata Kelola AI**
+
+> Perusahaan harus membuat tim yang mengatur penggunaan AI, dengan melibatkan bagian teknologi, ukum, kepatuhan, dan manajemen risiko, agar penggunaan AI sesuai dengan aturan dan prinsip etika.[11]
+
+5.  **Mekanisme Pengaduan yang Efektif**
+
+> Pengguna perlu memiliki akses yang mudah untuk melaporkan kesalahan yang terjadi pada chatbot dan mendapatkan solusi cepat jika mengalami kerugian karena mendapatkan informasi yang tidak benar.
+
+**Bagian 11 - Pelajaran Utama & Daftar Pustaka**
+
+**11.1 Pelajaran Utama**
+
+Kasus Air Canada Chatbot Hallucination memberikan pelajaran berharga bagi kami sebagai calon insinyur komputer tentang pentingnya tanggung jawab dalam mengembangkan dan menerapkan teknologi yang berbasis Kecerdasan Buatan (AI). Kami memahami bahwa keberhasilan suatu sistem tidak hanya ditentukan oleh tingkat teknologi atau efisiensi yang dicapai, tetapi juga oleh kemampuan sistem untuk menyajikan informasi yang tepat, aman, dan dapat dipercaya oleh penggunanya. Kesalahan data yang dihasilkan oleh chatbot dalam situasi ini menunjukkan bahwa AI masih memiliki batasan, sehingga tidak bisa digunakan tanpa pengawasan dan sistem validasi yang tepat.
+
+Sebagai profesional yang sedang belajar, kami memahami bahwa setiap sistem yang dibuat harus melewati tahapan desain, pengujian, penilaian, dan perawatan secara berkelanjutan untuk mengurangi risiko kesalahan. Kami juga menyadari bahwa perusahaan dan pengembang tidak boleh melepaskan tanggung jawab kepada teknologi ketika kerugian terjadi akibat kesalahan sistem. Dengan demikian, prinsip akuntabilitas, transparansi, kejujuran, dan perhatian terhadap pengguna harus menjadi landasan dalam setiap proses pengembangan perangkat lunak.
+
+Ke depan, kami berkomitmen untuk selalu mengedepankan kepentingan pengguna, mematuhi kode etik profesional, serta menerapkan praktik human-in-the-loop dalam sistem AI yang menangani informasi krusial atau berdampak besar pada pengambilan keputusan. Di samping itu, kami akan terus mengembangkan keterampilan dalam teknologi sambil memahami aspek hukum dan etika yang terkait dengan AI. Dengan mengimplementasikan nilai-nilai tersebut, kami berharap dapat menjadi insinyur yang tidak hanya memiliki keterampilan teknis yang memadai, tetapi juga mampu menciptakan teknologi yang bertanggung jawab, berguna, serta memberikan kepercayaan dan perlindungan untuk masyarakat.
+
 **11.2 Daftar Pustaka**
 
 [1] Sun, Y., Sheng, D., Zhou, Z., & Wu, Y. (2024). *AI hallucination: Towards a comprehensive classification of distorted information in artificial intelligence-generated content*. *Humanities and Social Sciences Communications, 11*, Article 1278. **<https://doi.org/10.1057/s41599-024-03811-x>**
@@ -447,3 +578,7 @@ Berdasarkan prinsip ISO 31000 integrasi risiko ke dalam proses organisasi, pende
 [8] M. R. N. Irsyad and Ilham, “Optimalisasi Manajemen Risiko Teknologi Informasi Menggunakan Framework ISO 31000 di Era Digital,” *Journal of Information System, Applied, Management, Accounting and Research (JISAMAR)*, vol. 9, no. 1, pp. 24–41, Feb. 2025.
 
 [9] J. G. Browning, “Whose Bot Is It Anyway? Determining Liability for AI-Generated Content,” *Northern Illinois University Law Review*, vol. 45, no. 3, pp. 340–399, 2025.
+
+[10] Li, J., Wu, L., Qi, J., Zhang, Y., Wu, Z., & Hu, S. (2023). Determinants Affecting Consumer Trust in Communication With AI Chatbots: The Moderating Effect of Privacy Concerns. Journal of Organizational and End User Computing (JOEUC), 35(1), 1-24. <https://doi.org/10.4018/JOEUC.328089>
+
+[11] Organisation for Economic Co-operation and Development (OECD). (2023). Advancing accountability in AI: Governing and managing risks throughout the lifecycle for trustworthy AI (OECD Digital Economy Papers No. 349). OECD Publishing. [https://doi.org/10.1787/2448f04b-en](https://doi.org/10.1787/2448f04b-en)
