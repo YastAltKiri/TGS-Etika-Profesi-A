@@ -1,3 +1,4 @@
+[![Kasus Ai Halucination Air Canada - Etika Profesi (A)](https://img.youtube.com/vi/QTZ6FJ2Z7A0/maxresdefault.jpg)](https://www.youtube.com/watch?v=QTZ6FJ2Z7A0)
 <h1 align="center">ETIKA PROFESI – A</h1>
 <h3 align="center"><em>"Air Canada Chatbot Hallucination - 2024"</em></h3>
 
