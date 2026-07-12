@@ -43,8 +43,8 @@
 | 1      | Riast Dwi Sanditya         | 4524210088 | Ketua & Bagian 1-2: Kronologi & Fakta Kunci                     |
 | 2      | Nadia Chelsea Alifia Ashab | 4524210072 | Bagian 6 & 8: Kode Etik & Integritas                            |
 | 3      | Najwa Khoerunnisa Suherman | 4524210076 | Bagian 4-5: Analisis Empat Teori Etika & Pancasila              |
-| 4      | Sarah Syafitri Hilmi       | 4524210092 | Bagian 7 & 9: Regulasi & Manajemen Resiko                       |
-| 5      | Rizka Ainun Nazori         | 4524210096 | Bagian 3 & 10: Pemetaan Pemangku Kepentingan & Rancangan Dampak |
+| 4      | Sarah Syafitri Hilmi       | 4524210096 | Bagian 7 & 9: Regulasi & Manajemen Resiko                       |
+| 5      | Rizka Ainun Nazori         | 4524210092 | Bagian 3 & 10: Pemetaan Pemangku Kepentingan & Rancangan Dampak |
 
 **Sub-CPMK yang Dicakup**
 
